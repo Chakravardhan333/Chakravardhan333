@@ -1,4 +1,4 @@
-#   Hi, I'm Ramagiri Chakravardhan
+# 👋 Hi, I'm Ramagiri Chakravardhan
 
 ### Electronics and Communication Engineering Student | Web Developer | Aspiring Software Engineer | ServiceNow Developer
 
@@ -13,7 +13,7 @@ Passionate about building practical software applications, solving real-world pr
 * 💡 Interested in **Software Development, Web Technologies, Cloud Platforms and ServiceNow**
 * 🚀 Passionate about building **practical, user-friendly and efficient applications**
 * 📚 Continuously improving my **programming, problem-solving and ServiceNow platform skills**
-* 🎯 Goal: To become a skilled **Software Engineer and ServiceNow Developer** and contribute to impactful technology solutions
+* 🎯 Goal: To become a skilled **Software Engineer and ServiceNow Developer**
 
 ---
 
@@ -45,10 +45,8 @@ Passionate about building practical software applications, solving real-world pr
 ![ITSM](https://img.shields.io/badge/ITSM-032D42?style=for-the-badge)
 ![CSA](https://img.shields.io/badge/CSA-Certified-032D42?style=for-the-badge)
 ![CAD](https://img.shields.io/badge/CAD-Certified-032D42?style=for-the-badge)
-![Administration](https://img.shields.io/badge/ServiceNow-Administration-032D42?style=for-the-badge)
-![Application Development](https://img.shields.io/badge/Application-Development-032D42?style=for-the-badge)
-![Scripting](https://img.shields.io/badge/ServiceNow-Scripting-032D42?style=for-the-badge)
-![Mobile App Builder](https://img.shields.io/badge/Mobile-App%20Builder-032D42?style=for-the-badge)
+![Scripting](https://img.shields.io/badge/Scripting-032D42?style=for-the-badge)
+![Mobile App Builder](https://img.shields.io/badge/Mobile%20App%20Builder-032D42?style=for-the-badge)
 
 ### 🔧 Tools & Platforms
 
@@ -94,14 +92,13 @@ A smart parking platform designed to provide a practical parking discovery and b
 
 ### 🏢 ServiceNow Smart Parking Application
 
-A ServiceNow-based smart parking application designed to manage parking-related activities through the ServiceNow platform.
+A ServiceNow-based application designed to manage parking operations through the ServiceNow platform.
 
 * 🅿️ Parking booking management
-* 👤 Customer information management
-* 🚗 Vehicle information
-* 💳 Payment details and payment status
+* 👤 Customer and vehicle information
+* 💳 Payment details and status
 * 📋 Booking status management
-* 📱 ServiceNow Mobile App Builder
+* 📱 Mobile App Builder
 
 **Technologies:** ServiceNow • JavaScript • Mobile App Builder
 
@@ -121,8 +118,7 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 ### ServiceNow Virtual Intern — SmartBridge
 
 * Gained practical experience with the **ServiceNow platform**
-* Worked with ServiceNow application development concepts
-* Learned platform configuration and application features
+* Worked with application development and configuration
 * Explored ServiceNow development concepts
 
 ### Web Development Intern — EduNet Foundation
@@ -134,27 +130,29 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 
 ---
 
-##   Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="mailto:ramagirichakravardhan333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramagirichakravardhan333@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://wa.me/919032727235">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <a href="https://github.com/Chakravardhan333">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
+
+---
 
 **Thanks for visiting my profile!**
 
