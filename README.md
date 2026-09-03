@@ -1,58 +1,87 @@
 # 👋 Hi, I'm Chakravardhan
 
-### Final-Year Engineering Student | ServiceNow Certified | Frontend & Python Developer
+### Final-Year ECE Student | Aspiring Software Engineer | Python | React.js | ServiceNow
 
-Passionate about building practical applications, developing modern web experiences, and solving real-world problems through technology. Currently focused on **Frontend Development, Python, React.js, ServiceNow, and Problem Solving**.
+Passionate about building practical software applications, solving real-world problems through technology, and continuously learning modern technologies and development tools.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Final-Year Engineering Student
-* 💻 Frontend Developer & Python Developer
-* ⚛️ React.js Enthusiast
-* ☁️ ServiceNow Certified Professional
-* 🏆 ServiceNow **Certified System Administrator (CSA)**
-* 🏆 ServiceNow **Certified Application Developer (CAD)**
-* 🚀 Interested in Web Development, Software Development & Cloud Technologies
-* 🌱 Continuously learning new technologies and improving my coding skills
-* 🎯 Goal: To become a skilled Software Engineer and build impactful technology solutions
+- 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (ECE)**
+- 🌱 Currently developing my skills in **Python, Web Development, React.js and ServiceNow**
+- 💡 Interested in **Software Development, Web Technologies, Cloud Platforms and ServiceNow**
+- 🚀 Passionate about building **practical, user-friendly and efficient applications**
+- 📚 Continuously improving my **programming, problem-solving and ServiceNow platform skills**
+- 🎯 Goal: To become a skilled **Software Engineer and ServiceNow Developer** and contribute to impactful technology solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages & Core Concepts
+### 💻 Programming Languages & Core Concepts
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Programming & Concepts:**
-**Data Structures • Object-Oriented Programming (OOP)**
+- Python
+- SQL
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Problem Solving
 
 ### 🌐 Web Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Web Technologies:**
-**HTML • CSS • JavaScript • React.js • Bootstrap**
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
 
-### ⚙️ ServiceNow
+### ⚙️ Backend & Database
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge\&logo=servicenow\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**ServiceNow Skills:**
-**ServiceNow Administration • IT Service Management (ITSM) • Application Development • Application Configuration • ServiceNow Scripting • Business Rules • Client Scripts • UI Policies • UI Actions • ACLs • Service Catalog • Workflows • Mobile App Builder**
+- Node.js
+- MongoDB
+- Database Fundamentals
 
-### 🧰 Tools & Platforms
+### ☁️ ServiceNow
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white)
+
+- ServiceNow Administration
+- IT Service Management (ITSM)
+- ServiceNow Application Development
+- Application Configuration
+- ServiceNow Scripting
+- Business Rules
+- Client Scripts
+- UI Policies
+- UI Actions
+- ACLs
+- Service Catalog
+- Workflows
+- Mobile App Builder
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+- Git
+- GitHub
+- VS Code
+- MATLAB
 
 ---
 
@@ -60,11 +89,15 @@ Passionate about building practical applications, developing modern web experien
 
 ### 🍽️ Tulasi Foods – Full Stack Web Application
 
-* 🌐 Developed a professional website for a food manufacturing business.
-* 📱 Designed a responsive and user-friendly interface.
-* 🗄️ Integrated backend and database functionality.
-* 🚀 Deployed the application online.
-* 🛠️ Technologies: **HTML, CSS, JavaScript, Node.js, MongoDB**
+A professional web application developed for a food manufacturing business.
+
+- 📱 Designed a **responsive and user-friendly web interface**
+- ⚙️ Implemented backend functionality for the application
+- 🗄️ Integrated database functionality
+- 🌐 Deployed the application online
+- 💻 Built with modern web technologies
+
+**Technologies:** HTML • CSS • JavaScript • Node.js • MongoDB
 
 🔗 **Live Project:** https://tulasi-foods.vercel.app/
 
@@ -72,79 +105,87 @@ Passionate about building practical applications, developing modern web experien
 
 ### 🅿️ Smart Parking Management System
 
-* 🚗 Developed a smart parking platform for finding and managing parking spaces.
-* 📍 Includes city, area, street and parking-location information.
-* 🅿️ Provides parking-slot availability and booking functionality.
-* 💰 Supports parking pricing in Indian Rupees.
-* 🇮🇳 Designed with an India-wide parking dataset.
-* 📱 Includes parking management and booking features.
-* 🛠️ Technologies: **React.js, JavaScript, Vite**
+A smart parking platform designed to provide a practical parking discovery and booking experience.
+
+- 📍 Parking information based on **City, Area and Street**
+- 🅿️ Parking location and slot availability
+- 📅 Parking slot booking functionality
+- 💰 Pricing displayed in **Indian Rupees (₹)**
+- 🇮🇳 India-wide parking location dataset
+- 🔎 Easy parking location discovery
+- 💻 Responsive and user-friendly interface
+
+**Technologies:** React.js • JavaScript • Vite
 
 ---
 
 ### 🏢 ServiceNow Smart Parking Application
 
-* ⚙️ Developed a Smart Parking application using ServiceNow.
-* 🅿️ Implemented parking booking functionality.
-* 👤 Added customer and vehicle information management.
-* 💳 Included payment and booking-status functionality.
-* 📱 Worked with ServiceNow Mobile App Builder.
-* 🛠️ Technologies: **ServiceNow, JavaScript, Mobile App Builder**
+A ServiceNow-based smart parking application developed to manage parking-related activities through the ServiceNow platform.
+
+- 🅿️ Parking booking management
+- 👤 Customer information management
+- 🚗 Vehicle information
+- 💳 Payment details and payment status
+- 📋 Booking status management
+- 📱 ServiceNow Mobile App Builder integration
+
+**Technologies:** ServiceNow • JavaScript • Mobile App Builder
 
 ---
 
 ## 🏆 Certifications
 
-* 🏅 **ServiceNow Certified System Administrator (CSA)**
-* 🏅 **ServiceNow Certified Application Developer (CAD)**
-* 🏆 **Prajna Top Winner Certificate**
-* 📜 **English Step Certificate**
+- 🥇 **ServiceNow Certified System Administrator (CSA)**
+- 🏅 **ServiceNow Certified Application Developer (CAD)**
+- 🏆 **Prajna Top Winner Certificate**
+- 📜 **English Step Certificate**
 
 ---
 
 ## 💼 Experience
 
-### ServiceNow Virtual Intern
+### ServiceNow Virtual Intern — SmartBridge
 
-**SmartBridge**
+- Gained practical experience with the **ServiceNow platform**
+- Worked with ServiceNow application development concepts
+- Learned platform configuration and application features
+- Explored ServiceNow development and implementation concepts
 
-* Worked with ServiceNow platform concepts and application development.
-* Gained practical experience in ServiceNow application development.
-* Worked with platform configuration and application features.
+### Web Development Intern — EduNet Foundation
 
-### Web Development Intern
-
-**EduNet Foundation**
-
-* Worked on web development concepts and practical projects.
-* Improved frontend development and programming skills.
+- Gained practical experience in **web development**
+- Worked with frontend development concepts
+- Developed and worked on web-based projects
+- Improved programming and problem-solving skills
 
 ---
+
 ## 🤝 Connect With Me
 
-<p align="left">
+📧 **Email:**  
+ramagirichakravardhan333@gmail.com
 
-<a href="mailto:ramagirichakravardhan333@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b3/
 
-<a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b3/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+📱 **Mobile:**  
+9032727235
 
-<a href="https://github.com/Chakravardhan333">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+💬 **WhatsApp:**  
+9032727235
 
-<a href="tel:+919032727235">
-<img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile"/>
-</a>
+🐙 **GitHub:**  
+https://github.com/Chakravardhan333
 
-<a href="https://wa.me/919032727235">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+---
 
-</p>
+## 💭 Quote
 
+> **"Keep learning, keep building, and keep growing."**
+
+---
 
 ⭐ **Thanks for visiting my profile!**
+
+I'm always interested in learning new technologies, building meaningful projects, and exploring opportunities in **Software Development and ServiceNow**.
