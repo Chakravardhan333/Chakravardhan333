@@ -155,7 +155,6 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 </a>
 
 </p>
----
 
 **Thanks for visiting my profile!**
 
