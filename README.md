@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramagiri Chakravardhan
+#  Hi, I'm Ramagiri Chakravardhan
 
 ### Electronics and Communication Engineering Student | Web Developer | Aspiring Software Engineer | ServiceNow Developer
 
