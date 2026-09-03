@@ -2,7 +2,7 @@
 
 ### Final-Year Engineering Student | ServiceNow Certified | Frontend & Python Developer
 
-Passionate about building practical applications, developing modern web experiences, and solving real-world problems through technology. Currently focused on **Frontend Development, Python, React.js, ServiceNow, and problem solving**.
+Passionate about building practical applications, developing modern web experiences, and solving real-world problems through technology. Currently focused on **Frontend Development, Python, React.js, ServiceNow, and Problem Solving**.
 
 ---
 
@@ -22,40 +22,41 @@ Passionate about building practical applications, developing modern web experien
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages & Core Concepts
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-**Core Concepts:** Data Structures • Object-Oriented Programming (OOP)
+**Programming & Concepts:**
+**Data Structures • Object-Oriented Programming (OOP)**
 
 ### 🌐 Web Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+**Web Technologies:**
+**HTML • CSS • JavaScript • React.js • Bootstrap**
 
 ### ⚙️ ServiceNow
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge\&logo=servicenow\&logoColor=white)
 
-**Skills:** ServiceNow Administration • Application Development • IT Service Management
+**ServiceNow Skills:**
+**ServiceNow Administration • IT Service Management (ITSM) • Application Development • Application Configuration • ServiceNow Scripting • Business Rules • Client Scripts • UI Policies • UI Actions • ACLs • Service Catalog • Workflows • Mobile App Builder**
 
-### ☁️ Tools & Platforms
+### 🧰 Tools & Platforms
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
-
-
-## 🚀 Projects
-
-### 🅿️ Smart Parking Management System
-
-* 🚗 Developed a smart parking platform for finding and managing parking spaces.
-* 📍 Includes city, area, street and parking-location information.
-* 🅿️ Provides parking-slot availability and booking functionality.
-* 💰 Supports parking pricing in Indian Rupees.
-* 🇮🇳 Designed with an India-wide parking dataset.
-* 📱 Includes parking management and booking features.
-* 🛠️ Technologies: **React.js, JavaScript, Tailwind CSS, Vite**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
 
 ---
+
+## 🚀 Projects
 
 ### 🍽️ Tulasi Foods – Full Stack Web Application
 
@@ -66,6 +67,18 @@ Passionate about building practical applications, developing modern web experien
 * 🛠️ Technologies: **HTML, CSS, JavaScript, Node.js, MongoDB**
 
 🔗 **Live Project:** https://tulasi-foods.vercel.app/
+
+---
+
+### 🅿️ Smart Parking Management System
+
+* 🚗 Developed a smart parking platform for finding and managing parking spaces.
+* 📍 Includes city, area, street and parking-location information.
+* 🅿️ Provides parking-slot availability and booking functionality.
+* 💰 Supports parking pricing in Indian Rupees.
+* 🇮🇳 Designed with an India-wide parking dataset.
+* 📱 Includes parking management and booking features.
+* 🛠️ Technologies: **React.js, JavaScript, Vite**
 
 ---
 
@@ -84,6 +97,8 @@ Passionate about building practical applications, developing modern web experien
 
 * 🏅 **ServiceNow Certified System Administrator (CSA)**
 * 🏅 **ServiceNow Certified Application Developer (CAD)**
+* 🏆 **Prajna Top Winner Certificate**
+* 📜 **English Step Certificate**
 
 ---
 
@@ -106,7 +121,28 @@ Passionate about building practical applications, developing modern web experien
 
 ---
 
-
 ## 🤝 Connect With Me
 
-⭐ Thanks for visiting my profile!
+<p align="left">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chakravardhan333">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="tel:YOUR_MOBILE_NUMBER">
+<img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
