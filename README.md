@@ -89,7 +89,20 @@ A smart parking platform designed to provide a practical parking discovery and b
 
 ---
 
-### 🏢 ServiceNow Smart Parking Application
+### 🏥 ServiceNow Live Saver Healthcare Application
+
+A ServiceNow-based healthcare application designed to manage healthcare information and streamline service operations through the ServiceNow platform.
+
+* 🏥 Healthcare record management
+* 📋 Patient and service records
+* 🗂️ Tables, forms, and record management
+* ⚙️ Workflow and process management
+* 🔄 Data creation, updating, and tracking
+* 🖥️ ServiceNow application configuration
+
+**Technologies:** ServiceNow • JavaScript • Tables & Records • Forms • Workflows
+
+### 🅿️ ServiceNow Smart Parking Application
 
 A ServiceNow-based application designed to manage parking operations through the ServiceNow platform.
 
@@ -98,8 +111,9 @@ A ServiceNow-based application designed to manage parking operations through the
 * 💳 Payment details and status
 * 📋 Booking status management
 * 📱 Mobile App Builder
+* 🗂️ Tables, forms, and parking records
 
-**Technologies:** ServiceNow • JavaScript • Mobile App Builder
+**Technologies:** ServiceNow • JavaScript • Tables & Records • Forms • Mobile App Builder
 
 ---
 
