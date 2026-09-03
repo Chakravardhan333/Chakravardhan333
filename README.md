@@ -160,6 +160,7 @@ A ServiceNow-based application designed to manage parking operations through the
   </a>
 </p>
 
+---
 
 **Thanks for visiting my profile!**
 
