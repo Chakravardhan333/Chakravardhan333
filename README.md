@@ -129,7 +129,7 @@ A ServiceNow-based application designed to manage parking operations through the
 
 ---
 
-## 🤝 Connect With Me
+##   Connect With Me
 
 <p align="center">
 
