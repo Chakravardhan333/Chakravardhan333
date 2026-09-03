@@ -143,7 +143,7 @@ A ServiceNow-based application designed to manage parking operations through the
 
 ---
 
-##   Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:ramagirichakravardhan333@gmail.com">
@@ -159,7 +159,6 @@ A ServiceNow-based application designed to manage parking operations through the
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 ---
 
