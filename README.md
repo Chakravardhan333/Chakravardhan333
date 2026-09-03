@@ -120,29 +120,31 @@ Passionate about building practical applications, developing modern web experien
 * Improved frontend development and programming skills.
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:ramagirichakravardhan333@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b3/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Chakravardhan333">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="tel:YOUR_MOBILE_NUMBER">
-<img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="tel:+919032727235">
+<img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile"/>
+</a>
+
+<a href="https://wa.me/919032727235">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </p>
 
----
 
 ⭐ **Thanks for visiting my profile!**
