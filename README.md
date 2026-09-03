@@ -85,7 +85,7 @@ A smart parking platform designed to provide a practical parking discovery and b
 * 🔎 Parking location discovery
 * 💻 Responsive user interface
 
-**Technologies:** React.js • JavaScript • Vite
+**Technologies:** HTML5 • CSS3 • JavaScript • React.js • Vite
 
 ---
 
