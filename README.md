@@ -136,24 +136,25 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 
 ##   Connect With Me
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramagirichakravardhan333@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<p align="center">
+
+<a href="mailto:ramagirichakravardhan333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://wa.me/919032727235">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <a href="https://github.com/Chakravardhan333">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </p>
-
 ---
 
 **Thanks for visiting my profile!**
