@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramagiri Chakravardhan
+#   Hi, I'm Ramagiri Chakravardhan
 
 ### Electronics and Communication Engineering Student | Web Developer | Aspiring Software Engineer | ServiceNow Developer
 
@@ -134,7 +134,7 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 
 ---
 
-## 🤝 Connect With Me
+##   Connect With Me
 
 <p align="center">
 
@@ -142,15 +142,15 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b/" target="_blank">
+<a href="https://www.linkedin.com/in/ramagiri-chakravardhan-1508582b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://wa.me/919032727235" target="_blank">
+<a href="https://wa.me/919032727235">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-<a href="https://github.com/Chakravardhan333" target="_blank">
+<a href="https://github.com/Chakravardhan333">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
