@@ -136,9 +136,7 @@ A ServiceNow-based smart parking application designed to manage parking-related 
 
 ##   Connect With Me
 
-<p align="center">
-
-<a href="mailto:ramagirichakravardhan333@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramagirichakravardhan333@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
